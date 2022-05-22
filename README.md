@@ -1,4 +1,4 @@
-````
+```
 !这是中文规则的补充,复制内容到自定义(点击ABP图标>齿轮>高级>我的过滤列表下文本框)
 ||valipl.cp31.ott.cibntv.net^$media,rewrite=abp-resource:blank-mp3,domain=youku.com
 ||cibntv.net/youku/$media,rewrite=abp-resource:blank-mp3,domain=youku.com
@@ -39,4 +39,4 @@ xianzhenyuan.cn#$#abort-on-property-read ad
 zhenbuka3.com#$#override-property-read ad_load_success trueFunc
 !#Novels
 dhzw8.com,hkslg8.com,konlan.org,lewxs.com,snwx3.com,sqsxs.com,xtmetb.com#$#abort-on-property-read _go
-````
+```
