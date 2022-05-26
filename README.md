@@ -33,6 +33,7 @@ https://easylist-downloads.adblockplus.org/easyprivacy.txt<br>
 &emsp;&emsp;**(4) CJX's Annoyance List (反自我推广,移除anti adblock,防跟踪规则列表)**<br>
 https://main.filter-delivery-staging.eyeo.com/v3/full/cjx-annoyance.txt<br>
 [ABP ADB 点此订阅CJX's Annoyance List](https://subscribe.adblockplus.org?location=https://main.filter-delivery-staging.eyeo.com/v3/full/cjx-annoyance.txt&title=CJX "CJX's Annoyance List")<br> 
+但ublock origin不可用,可以换ADG提供的地址 https://filters.adtidy.org/extension/ublock/filters/220.txt<br>
 &emsp;&emsp;这是"EasyList China+EasyList" & "EasyPrivacy"的补充。2015.2.4发布,过滤烦人的自我推广,移除anti adblock,并补充EasyPrivacy隐私规则.<br>
 
 &emsp;&emsp;**(5 ABP专用) ABP小脚本 (CJX's Annoyance List的补充。不能订阅，看下文操作.)**<br>
