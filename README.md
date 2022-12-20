@@ -30,7 +30,7 @@
 &emsp;&emsp;[ABP ADB 点此订阅EasyPrivacy](https://subscribe.adblockplus.org?location=https://easylist-downloads.adblockplus.org/easyprivacy.txt&title=EasyPrivacy "EasyPrivacy")<br>
 [https://easylist-downloads.adblockplus.org/easyprivacy.txt](https://easylist-downloads.adblockplus.org/easyprivacy.txt)<br>
 
-### cjx
+### FYI
 
 &emsp;&emsp;**(4) CJX's Annoyance List (反自我推广,移除anti adblock,防跟踪规则列表)**<br>
 &emsp;&emsp;CJX's Annoyance List是"EasyList China+EasyList" & "EasyPrivacy"的补充。2015.2.4发布,过滤烦人的自我推广,移除anti adblock,并补充EasyPrivacy隐私规则.<br>
